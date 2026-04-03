@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+temp_notice.pdf
+temp_poster.png
+*.pyc
+.DS_Store
+.streamlit/
