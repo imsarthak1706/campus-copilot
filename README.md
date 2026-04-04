@@ -2,6 +2,10 @@
 
 Campus Copilot is an AI-powered student assistant that converts college notices into clear, actionable insights.
 
+## 🎥 Demo Video
+
+Watch the project demo here: [Campus Copilot Demo](https://youtu.be/1eunVaIwTeE?si=-5hCVwOv2TyVWe17)
+
 ## 🚀 Features
 - Upload **poster images**
 - Upload **PDF notices**
